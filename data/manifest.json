@@ -1,0 +1,622 @@
+{
+  "version": 1,
+  "rounds": 10,
+  "categories": [
+    {
+      "id": "portrait",
+      "label": "Portraits",
+      "tell": "Check ears, earrings and teeth. AI loves mismatched earrings and teeth that are a little too even.",
+      "real": [
+        {
+          "src": "assets/real/portrait-1.jpg",
+          "title": "Woman in a headwrap in Quebec City",
+          "creator": "Wilfredor",
+          "license": "CC0",
+          "page": "https://commons.wikimedia.org/wiki/File:Woman_in_a_headwrap_in_Quebec_City.jpg"
+        },
+        {
+          "src": "assets/real/portrait-2.jpg",
+          "title": "Portrait of a young pretty woman",
+          "creator": "Matthew T Rader",
+          "license": "CC BY-SA 4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_young_pretty_woman.jpg"
+        },
+        {
+          "src": "assets/real/portrait-3.jpg",
+          "title": "This 4 year old is",
+          "creator": "mattedesign",
+          "license": "CC BY 2.0",
+          "page": "https://www.flickr.com/photos/33644713@N00/29388721973"
+        },
+        {
+          "src": "assets/real/portrait-4.jpg",
+          "title": "Portrait",
+          "creator": "-Jérôme-",
+          "license": "CC BY 2.0",
+          "page": "https://www.flickr.com/photos/76474448@N00/3435421041"
+        },
+        {
+          "src": "assets/real/portrait-5.jpg",
+          "title": "Smile",
+          "creator": "mac.rj",
+          "license": "CC BY 2.0",
+          "page": "https://www.flickr.com/photos/38775064@N05/8689248933"
+        }
+      ],
+      "ai": [
+        {
+          "src": "assets/ai/portrait-1.jpg",
+          "model": "Grok Imagine"
+        },
+        {
+          "src": "assets/ai/portrait-2.jpg",
+          "model": "Grok Imagine"
+        },
+        {
+          "src": "assets/ai/portrait-3.jpg",
+          "model": "Grok Imagine"
+        }
+      ]
+    },
+    {
+      "id": "hands",
+      "label": "Hands",
+      "tell": "Count the fingers and look at the nails. Hands are still the classic AI tell.",
+      "real": [
+        {
+          "src": "assets/real/hands-1.jpg",
+          "title": "Close-up outdoors man holding hands",
+          "creator": "",
+          "license": "CC0 1.0",
+          "page": "https://www.rawpixel.com/image/3283604/free-photo-image-cc0-couple-creative-commons"
+        },
+        {
+          "src": "assets/real/hands-2.jpg",
+          "title": "Couple holding hands, close up",
+          "creator": "",
+          "license": "CC0 1.0",
+          "page": "https://www.rawpixel.com/image/6037154/photo-image-public-domain-hand-person"
+        },
+        {
+          "src": "assets/real/hands-3.jpg",
+          "title": "Couple holding hands, close up",
+          "creator": "",
+          "license": "CC0 1.0",
+          "page": "https://www.rawpixel.com/image/6023462/photo-image-public-domain-hand-person"
+        },
+        {
+          "src": "assets/real/hands-4.jpg",
+          "title": "Javier shows part of the grape harvest in his Lysekil vin…",
+          "creator": "W.carter",
+          "license": "CC0",
+          "page": "https://commons.wikimedia.org/wiki/File:Javier_shows_part_of_the_grape_harvest_in_his_Lysekil_vineyard_1_-_cropped.jpg"
+        },
+        {
+          "src": "assets/real/hands-5.jpg",
+          "title": "Rutenfest 2025",
+          "creator": "Kritzolina",
+          "license": "CC BY-SA 4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Rutenfest_2025.jpg"
+        }
+      ],
+      "ai": [
+        {
+          "src": "assets/ai/hands-1.jpg",
+          "model": "Grok Imagine"
+        },
+        {
+          "src": "assets/ai/hands-2.jpg",
+          "model": "Grok Imagine"
+        },
+        {
+          "src": "assets/ai/hands-3.jpg",
+          "model": "Grok Imagine"
+        }
+      ]
+    },
+    {
+      "id": "food",
+      "label": "Food",
+      "tell": "Look for mess. Real food has crumbs, smears and uneven lighting. AI food is suspiciously tidy.",
+      "real": [
+        {
+          "src": "assets/real/food-1.jpg",
+          "title": "Food Recipe",
+          "creator": "Dana Tentis",
+          "license": "CC0 1.0",
+          "page": "https://stocksnap.io/photo/food-recipe-G8QICMKLUV"
+        },
+        {
+          "src": "assets/real/food-2.jpg",
+          "title": "Food Soup",
+          "creator": "Matthew Hamilton",
+          "license": "CC0 1.0",
+          "page": "https://stocksnap.io/photo/food-soup-ZZ633JE9OT"
+        },
+        {
+          "src": "assets/real/food-3.jpg",
+          "title": "Noodles Asian",
+          "creator": "Tim Sullivan",
+          "license": "CC0 1.0",
+          "page": "https://stocksnap.io/photo/noodles-asian-XCRHPMMYTW"
+        },
+        {
+          "src": "assets/real/food-4.jpg",
+          "title": "Free meat dish restaurant image",
+          "creator": "",
+          "license": "CC0 1.0",
+          "page": "https://www.rawpixel.com/image/5921427/photo-image-public-domain-green-glass"
+        },
+        {
+          "src": "assets/real/food-5.jpg",
+          "title": "Dish of blueberries",
+          "creator": "Petar Milošević",
+          "license": "CC BY-SA 4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Dish_of_blueberries.jpg"
+        }
+      ],
+      "ai": [
+        {
+          "src": "assets/ai/food-1.jpg",
+          "model": "Grok Imagine"
+        },
+        {
+          "src": "assets/ai/food-2.jpg",
+          "model": "Grok Imagine"
+        },
+        {
+          "src": "assets/ai/food-3.jpg",
+          "model": "Grok Imagine"
+        }
+      ]
+    },
+    {
+      "id": "landscape",
+      "label": "Landscapes",
+      "tell": "Follow the ridgelines and the water's edge. AI terrain often doesn't add up geologically.",
+      "real": [
+        {
+          "src": "assets/real/landscape-1.jpg",
+          "title": "Mountains Lake",
+          "creator": "Bonnie Moreland",
+          "license": "CC0 1.0",
+          "page": "https://stocksnap.io/photo/mountains-lake-WL4Q1JLUDJ"
+        },
+        {
+          "src": "assets/real/landscape-2.jpg",
+          "title": "California Lake",
+          "creator": "Matt Bango",
+          "license": "CC0 1.0",
+          "page": "https://stocksnap.io/photo/california-lake-5AEVIZYTG3"
+        },
+        {
+          "src": "assets/real/landscape-3.jpg",
+          "title": "Green Trees",
+          "creator": "WDnet Studio",
+          "license": "CC0 1.0",
+          "page": "https://stocksnap.io/photo/green-trees-651DZZPJ4F"
+        },
+        {
+          "src": "assets/real/landscape-4.jpg",
+          "title": "Lake Grdzeli, Lagodekhi Protected Area, Georgia",
+          "creator": "Giorgi Balakhadze",
+          "license": "CC BY-SA 4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Lake_Grdzeli,_Lagodekhi_Protected_Area,_Georgia.jpg"
+        },
+        {
+          "src": "assets/real/landscape-5.jpg",
+          "title": "1 lake louise pano 2019",
+          "creator": "Chensiyuan",
+          "license": "CC BY-SA 4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:1_lake_louise_pano_2019.jpg"
+        }
+      ],
+      "ai": [
+        {
+          "src": "assets/ai/landscape-1.jpg",
+          "model": "Grok Imagine"
+        },
+        {
+          "src": "assets/ai/landscape-2.jpg",
+          "model": "Grok Imagine"
+        },
+        {
+          "src": "assets/ai/landscape-3.jpg",
+          "model": "Grok Imagine"
+        }
+      ]
+    },
+    {
+      "id": "architecture",
+      "label": "Architecture",
+      "tell": "Count windows across floors. AI buildings lose the grid and the columns stop lining up.",
+      "real": [
+        {
+          "src": "assets/real/architecture-1.jpg",
+          "title": "Abstract Modern",
+          "creator": "The Building Envelope",
+          "license": "CC0 1.0",
+          "page": "https://stocksnap.io/photo/abstract-modern-I6XJM4PDE1"
+        },
+        {
+          "src": "assets/real/architecture-2.jpg",
+          "title": "Building Balconies",
+          "creator": "The Building Envelope",
+          "license": "CC0 1.0",
+          "page": "https://stocksnap.io/photo/building-balconies-H8SXFODO3W"
+        },
+        {
+          "src": "assets/real/architecture-3.jpg",
+          "title": "Modern Building",
+          "creator": "The Building Envelope",
+          "license": "CC0 1.0",
+          "page": "https://stocksnap.io/photo/modern-building-9HV31ATTJD"
+        },
+        {
+          "src": "assets/real/architecture-4.jpg",
+          "title": "Modern architecture style. Windows. Современное зодчество…",
+          "creator": "AlixSaz",
+          "license": "CC BY-SA 4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Modern_architecture_style._Windows._%D0%A1%D0%BE%D0%B2%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B7%D0%BE%D0%B4%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE._%D0%9E%D0%BA%D0%BD%D0%B0.jpg"
+        },
+        {
+          "src": "assets/real/architecture-5.jpg",
+          "title": "Museum of Modern Art, 103 Marszałkowska street, Warsaw, P…",
+          "creator": "Igor123121",
+          "license": "CC BY 4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Museum_of_Modern_Art,_103_Marsza%C5%82kowska_street,_Warsaw,_Poland.jpg"
+        }
+      ],
+      "ai": [
+        {
+          "src": "assets/ai/architecture-1.jpg",
+          "model": "Grok Imagine"
+        },
+        {
+          "src": "assets/ai/architecture-2.jpg",
+          "model": "Grok Imagine"
+        },
+        {
+          "src": "assets/ai/architecture-3.jpg",
+          "model": "Grok Imagine"
+        }
+      ]
+    },
+    {
+      "id": "pets",
+      "label": "Pets",
+      "tell": "Fur direction, whisker count and eye reflections. AI fur flows too smoothly.",
+      "real": [
+        {
+          "src": "assets/real/pets-1.jpg",
+          "title": "Bindy - the sniffer dog",
+          "creator": "UK Home Office",
+          "license": "CC BY 2.0",
+          "page": "https://www.flickr.com/photos/49956354@N04/8407296195"
+        },
+        {
+          "src": "assets/real/pets-2.jpg",
+          "title": "Cat portrait by iezalel williams IMG_2980-004 - Canon EOS…",
+          "creator": "iezalel7williams",
+          "license": "CC0 1.0",
+          "page": "https://www.flickr.com/photos/181765699@N08/48051761348"
+        },
+        {
+          "src": "assets/real/pets-3.jpg",
+          "title": "Cat Portrait",
+          "creator": "Pai Shih",
+          "license": "CC BY 2.0",
+          "page": "https://www.flickr.com/photos/30939981@N00/20870616033"
+        },
+        {
+          "src": "assets/real/pets-4.jpg",
+          "title": "Sled dog on Svalbard with heterochromia",
+          "creator": "AWeith",
+          "license": "CC BY-SA 4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Sled_dog_on_Svalbard_with_heterochromia.jpg"
+        },
+        {
+          "src": "assets/real/pets-5.jpg",
+          "title": "Dog at Nørre Vorupør Strand",
+          "creator": "W.carter",
+          "license": "CC0",
+          "page": "https://commons.wikimedia.org/wiki/File:Dog_at_N%C3%B8rre_Vorup%C3%B8r_Strand.jpg"
+        }
+      ],
+      "ai": [
+        {
+          "src": "assets/ai/pets-1.jpg",
+          "model": "Grok Imagine"
+        },
+        {
+          "src": "assets/ai/pets-2.jpg",
+          "model": "Grok Imagine"
+        },
+        {
+          "src": "assets/ai/pets-3.jpg",
+          "model": "Grok Imagine"
+        }
+      ]
+    },
+    {
+      "id": "interior",
+      "label": "Interiors",
+      "tell": "Trace where the light falls and check reflections. AI rooms have doors to nowhere and lamps with no cords.",
+      "real": [
+        {
+          "src": "assets/real/interior-1.jpg",
+          "title": "House Home",
+          "creator": "Mike Birdy",
+          "license": "CC0 1.0",
+          "page": "https://stocksnap.io/photo/house-home-6KJ12UWOKQ"
+        },
+        {
+          "src": "assets/real/interior-2.jpg",
+          "title": "Living Room",
+          "creator": "Dan Gold",
+          "license": "CC0 1.0",
+          "page": "https://stocksnap.io/photo/living-room-BI0P6D3WL9"
+        },
+        {
+          "src": "assets/real/interior-3.jpg",
+          "title": "Couch Furniture",
+          "creator": "Kristin Hardwick",
+          "license": "CC0 1.0",
+          "page": "https://stocksnap.io/photo/couch-furniture-TQNWBTLHLY"
+        },
+        {
+          "src": "assets/real/interior-4.jpg",
+          "title": "Piano Keyboard",
+          "creator": "Lauren Mancke",
+          "license": "CC0 1.0",
+          "page": "https://stocksnap.io/photo/piano-keyboard-41AG8AS7OG"
+        },
+        {
+          "src": "assets/real/interior-5.jpg",
+          "title": "Free living room interior design",
+          "creator": "",
+          "license": "CC0 1.0",
+          "page": "https://www.rawpixel.com/image/5917348/image-frame-light-public-domain"
+        }
+      ],
+      "ai": [
+        {
+          "src": "assets/ai/interior-1.jpg",
+          "model": "Grok Imagine"
+        },
+        {
+          "src": "assets/ai/interior-2.jpg",
+          "model": "Grok Imagine"
+        },
+        {
+          "src": "assets/ai/interior-3.jpg",
+          "model": "Grok Imagine"
+        }
+      ]
+    },
+    {
+      "id": "product",
+      "label": "Coffee",
+      "tell": "Study the rim of the cup and the saucer edge. Ellipses and reflections are hard for AI.",
+      "real": [
+        {
+          "src": "assets/real/product-1.jpg",
+          "title": "Espresso BW 1",
+          "creator": "Berthold Werner",
+          "license": "Public domain",
+          "page": "https://commons.wikimedia.org/wiki/File:Espresso_BW_1.jpg"
+        },
+        {
+          "src": "assets/real/product-2.jpg",
+          "title": "Cortadoenjarra",
+          "creator": "Ezarate",
+          "license": "CC BY-SA 4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Cortadoenjarra.jpg"
+        },
+        {
+          "src": "assets/real/product-3.jpg",
+          "title": "Cortadoenjarra-anotherview",
+          "creator": "Ezarate",
+          "license": "CC BY-SA 4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Cortadoenjarra-anotherview.jpg"
+        },
+        {
+          "src": "assets/real/product-4.jpg",
+          "title": "Moka KILT. 01",
+          "creator": "Coyau\n",
+          "license": "CC BY-SA 3.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Moka_KILT._01.jpg"
+        },
+        {
+          "src": "assets/real/product-5.jpg",
+          "title": "Coffee cupping at Olivo Caffe with barista Marius Nica",
+          "creator": "bortescristian",
+          "license": "CC BY 2.0",
+          "page": "https://www.flickr.com/photos/79653482@N00/8441746821"
+        }
+      ],
+      "ai": [
+        {
+          "src": "assets/ai/product-1.jpg",
+          "model": "Grok Imagine"
+        },
+        {
+          "src": "assets/ai/product-2.jpg",
+          "model": "Grok Imagine"
+        },
+        {
+          "src": "assets/ai/product-3.jpg",
+          "model": "Grok Imagine"
+        }
+      ]
+    },
+    {
+      "id": "signage",
+      "label": "Signs",
+      "tell": "Read the letters. AI text is improving, but letter spacing and shapes still wobble.",
+      "real": [
+        {
+          "src": "assets/real/signage-1.jpg",
+          "title": "Starlite West Motel Neon Sign",
+          "creator": "Phillip Pessar",
+          "license": "CC BY 2.0",
+          "page": "https://www.flickr.com/photos/25955895@N03/6556586533"
+        },
+        {
+          "src": "assets/real/signage-2.jpg",
+          "title": "Neon sign",
+          "creator": "stu_spivack",
+          "license": "CC BY-SA 2.0",
+          "page": "https://www.flickr.com/photos/35034346243@N01/7601908"
+        },
+        {
+          "src": "assets/real/signage-3.jpg",
+          "title": "24 hours neon Sign",
+          "creator": "JeepersMedia",
+          "license": "CC BY 2.0",
+          "page": "https://www.flickr.com/photos/39160147@N03/7436556656"
+        },
+        {
+          "src": "assets/real/signage-4.jpg",
+          "title": "Dülmen, Viktorkirmes auf dem Marktplatz -- 2014 -- 3704",
+          "creator": "Dietmar Rabich",
+          "license": "CC BY-SA 4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Viktorkirmes_auf_dem_Marktplatz_--_2014_--_3704.jpg"
+        },
+        {
+          "src": "assets/real/signage-5.jpg",
+          "title": "NEON in Wrocław (Breslau)",
+          "creator": "Pudelek",
+          "license": "CC BY-SA 4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:NEON_in_Wroc%C5%82aw_(Breslau).jpg"
+        }
+      ],
+      "ai": [
+        {
+          "src": "assets/ai/signage-1.jpg",
+          "model": "Grok Imagine"
+        },
+        {
+          "src": "assets/ai/signage-2.jpg",
+          "model": "Grok Imagine"
+        },
+        {
+          "src": "assets/ai/signage-3.jpg",
+          "model": "Grok Imagine"
+        }
+      ]
+    },
+    {
+      "id": "street",
+      "label": "Streets",
+      "tell": "Look at the background: shadows pointing different ways, melted bikes, faces that don't resolve.",
+      "real": [
+        {
+          "src": "assets/real/street-1.jpg",
+          "title": "Lovely Chaos @ New York City",
+          "creator": "VinothChandar",
+          "license": "CC BY 2.0",
+          "page": "https://www.flickr.com/photos/44345361@N06/5663233533"
+        },
+        {
+          "src": "assets/real/street-2.jpg",
+          "title": "Travel | Kathmandu | Nepal",
+          "creator": "esmar.abdulhamid",
+          "license": "CC BY 2.0",
+          "page": "https://www.flickr.com/photos/57277045@N07/12582591584"
+        },
+        {
+          "src": "assets/real/street-3.jpg",
+          "title": "Untitled photo",
+          "creator": "kenwalton",
+          "license": "CC BY 2.0",
+          "page": "https://www.flickr.com/photos/55684318@N00/17193128610"
+        },
+        {
+          "src": "assets/real/street-4.jpg",
+          "title": "Untitled photo",
+          "creator": "kenwalton",
+          "license": "CC BY 2.0",
+          "page": "https://www.flickr.com/photos/55684318@N00/45012805182"
+        },
+        {
+          "src": "assets/real/street-5.jpg",
+          "title": "Pedestrian road with pavements and paper umbrellas, Higas…",
+          "creator": "Basile Morin",
+          "license": "CC BY-SA 4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Pedestrian_road_with_pavements_and_paper_umbrellas,_Higashiyama-ku,_Kyoto,_Japan,_early_morning.jpg"
+        }
+      ],
+      "ai": [
+        {
+          "src": "assets/ai/street-1.jpg",
+          "model": "Grok Imagine"
+        },
+        {
+          "src": "assets/ai/street-2.jpg",
+          "model": "Grok Imagine"
+        },
+        {
+          "src": "assets/ai/street-3.jpg",
+          "model": "Grok Imagine"
+        }
+      ]
+    },
+    {
+      "id": "art",
+      "label": "Paintings",
+      "tell": "Brush strokes should be consistent and cracks should follow the paint. AI paintings are too clean.",
+      "real": [
+        {
+          "src": "assets/real/art-1.jpg",
+          "title": "Still Life with Peaches",
+          "creator": "Auguste Renoir",
+          "license": "CC0 (Met Open Access)",
+          "page": "https://www.metmuseum.org/art/collection/search/437429"
+        },
+        {
+          "src": "assets/real/art-2.jpg",
+          "title": "Still Life with Pansies",
+          "creator": "Henri Fantin-Latour",
+          "license": "CC0 (Met Open Access)",
+          "page": "https://www.metmuseum.org/art/collection/search/436294"
+        },
+        {
+          "src": "assets/real/art-3.jpg",
+          "title": "Still Life with Apples and Pitcher",
+          "creator": "Camille Pissarro",
+          "license": "CC0 (Met Open Access)",
+          "page": "https://www.metmuseum.org/art/collection/search/437317"
+        },
+        {
+          "src": "assets/real/art-4.jpg",
+          "title": "Still Life with Apples and Pears",
+          "creator": "Paul Cézanne",
+          "license": "CC0 (Met Open Access)",
+          "page": "https://www.metmuseum.org/art/collection/search/435883"
+        },
+        {
+          "src": "assets/real/art-5.jpg",
+          "title": "Tahitian Landscape",
+          "creator": "Paul Gauguin",
+          "license": "CC0 (Met Open Access)",
+          "page": "https://www.metmuseum.org/art/collection/search/436451"
+        }
+      ],
+      "ai": [
+        {
+          "src": "assets/ai/art-1.jpg",
+          "model": "Grok Imagine"
+        },
+        {
+          "src": "assets/ai/art-2.jpg",
+          "model": "Grok Imagine"
+        },
+        {
+          "src": "assets/ai/art-3.jpg",
+          "model": "Grok Imagine"
+        }
+      ]
+    }
+  ]
+}

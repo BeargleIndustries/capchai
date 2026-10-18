@@ -1,0 +1,9 @@
+# Working files that do not ship
+curation/
+data/candidates.json
+.omc/
+.claude/launch.json
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
